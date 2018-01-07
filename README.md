@@ -2,7 +2,8 @@
 
 ![alt text](images/light_logo.png)
 
-[Game Preview](https://www.youtube.com/watch?v=CG2kVKcYE28)
+
+[Game Preview](https://www.youtube.com/watch?v=CG2kVKcYE28) </br>
 [Jam Site](https://globalgamejam.org/2016/jam-sites/ggj-atom)
 
 
