@@ -13,7 +13,7 @@ Endless ritual game, where the ancient tribe must sacrifice the chosen ones in o
 
 ![alt text](images/credits_developer.jpg)
 
-### 2D Art Design Team
+### 2D Art Designers
 
 *  Ece Seyrek
 
@@ -25,6 +25,6 @@ Endless ritual game, where the ancient tribe must sacrifice the chosen ones in o
 
 *  Murat Kaan Ustaoglu
 
-### Sound Design
+### Sound Designer
 
 *  Nazlican Eroglu
