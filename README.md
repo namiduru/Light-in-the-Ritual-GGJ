@@ -18,12 +18,12 @@ Endless ritual game, where the ancient tribe must sacrifice the chosen ones in o
 
 *  Zulal Ozturk
 
-### Coders
+### Developers
 
 *  Mehmet Namiduru
 
 *  Murat Kaan Ustaoglu
 
-*  Sound Design
+### Sound Design
 
 *  Nazlican Eroglu
